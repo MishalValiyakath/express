@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/yadhu621/express/issues"
   },
-  "homepage": "https://github.com/yadhu621/express#readme"
+  "homepage": "https://github.com/yadhu621/express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
