@@ -1,0 +1,16 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Sample Express app to demo Azure AppService",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadhu621/express.git"
+  },
+  "author": "Yadhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadhu621/express/issues"
+  },
+  "homepage": "https://github.com/yadhu621/express#readme"
+}
