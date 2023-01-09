@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Sample Express app to demo Azure AppService",
   "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yadhu621/express.git"
